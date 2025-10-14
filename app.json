@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Storeapp",
-    "slug": "Storeapp",
+    "name": "GetPayin_Task",
+    "slug": "GetPayin_Task",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -19,7 +19,8 @@
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.cgultimateno.GetPayinTask"
     },
     "web": {
       "output": "static",
